@@ -9,4 +9,4 @@ All information is gathered by us and not the Cybermon Developers. It might be w
 - [List of Glitches](glitch)
 - [The map](map)
 - [Movement stuff](movement)
-- [CTF approach](faust)
+- [CTF approach](FAUST)
