@@ -1,6 +1,6 @@
 # Glitches
 
-==- Stale-State - Using items more than once
+## Stale-State - Using items more than once
 
 **Usage**
 
@@ -26,7 +26,7 @@ The discord component with the bag is not updated upon item usage and the used i
 
 ===
 
-==- @-Move Glitch
+## @-Move Glitch
 
 **Usage**
 
@@ -48,7 +48,7 @@ The discord component with the bag is not updated upon item usage and the used i
 
 ===
 
-==- All-Dead Glitch
+## All-Dead Glitch
 
 **Usage**
 0. Careful, the cybermon at position #0 before you trigger the glitch will be replaced!
@@ -71,7 +71,7 @@ The discord component with the bag is not updated upon item usage and the used i
 - There are other options to get an all-dead team (`White Cyberdrug`)
 ===
 
-==- Baby's first Underflow Glitch
+## Baby's first Underflow Glitch
 
 **Usage**
 1. Apply `Purple Cyberdrug` until your stats would become negative
@@ -88,7 +88,7 @@ The discord component with the bag is not updated upon item usage and the used i
 
 ===
 
-==- Wrong place, wrong time?
+## Wrong place, wrong time?
 **Usage**
 1. `/bag`
 2. Start a battle
