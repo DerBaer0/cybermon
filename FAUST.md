@@ -1,3 +1,4 @@
+# FAUST
 ### What we did / what we have
 
 - Explore the whole map
